@@ -33,7 +33,6 @@ backend/data/*
 # Keep the storage module
 !backend/data/storage.py
 !backend/data/__init__.py
-backend/uploads/*
 
 # Keep directory structure
 !backend/data/.gitkeep
