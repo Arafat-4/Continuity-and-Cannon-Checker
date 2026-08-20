@@ -1,0 +1,71 @@
+{
+  "chapter_number": 11,
+  "title": "Chapter 11 — A Different Memory",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Nisha",
+        "details": [
+          "Met Arjun at the station.",
+          "Joked that Arjun had become much more punctual since moving to Bengaluru."
+        ]
+      },
+      {
+        "name": "Arjun",
+        "details": [
+          "Moved to Bengaluru.",
+          "Boarded a train that left Hyderabad at 8:00 in the evening."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Nisha meets Arjun at the station and jokes about his improved punctuality since moving to Bengaluru.",
+        "time_reference": ""
+      },
+      {
+        "description": "Arjun reminds Nisha that his first train left Hyderabad at 8:00 in the evening.",
+        "time_reference": "8:00 in the evening"
+      }
+    ],
+    "locations": [
+      {
+        "name": "The station",
+        "context": "The location where Nisha meets Arjun."
+      },
+      {
+        "name": "Bengaluru",
+        "context": "The location Arjun moved to."
+      },
+      {
+        "name": "Hyderabad",
+        "context": "The location from which Arjun's first train departed."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun moved to Bengaluru before meeting Nisha at the station.",
+      "Arjun's first train departed Hyderabad at 8:00 in the evening."
+    ],
+    "relationships": [
+      "Nisha and Arjun know each other."
+    ],
+    "point_of_view": {
+      "type": "objective",
+      "character": null,
+      "evidence": [
+        "Nisha met Arjun at the station.",
+        "Arjun smiled and reminded her that his first train had left Hyderabad at 8:00 in the evening."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Nisha met Arjun at the station.",
+        "She joked that he had become much more punctual since moving to Bengaluru."
+      ]
+    }
+  }
+}

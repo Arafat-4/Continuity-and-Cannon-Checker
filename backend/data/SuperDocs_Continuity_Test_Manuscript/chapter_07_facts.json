@@ -1,0 +1,67 @@
+{
+  "chapter_number": 7,
+  "title": "Chapter 7 — The Missing File",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Discovered an important project file was missing from his laptop upon returning to Bengaluru."
+        ]
+      },
+      {
+        "name": "Priya",
+        "details": [
+          "Helped Arjun search the office for the missing project file."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun discovered that an important project file was missing from his laptop.",
+        "time_reference": ""
+      },
+      {
+        "description": "Priya helped Arjun search the office.",
+        "time_reference": ""
+      },
+      {
+        "description": "Arjun and Priya found the missing project file on a shared drive.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The city where Arjun returned to and discovered the missing file."
+      },
+      {
+        "name": "Office",
+        "context": "The location searched by Priya and Arjun."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun discovered the file was missing back in Bengaluru."
+    ],
+    "relationships": [
+      "Priya helped Arjun search the office."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun discovered that an important project file was missing from his laptop."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun discovered that an important project file was missing from his laptop.",
+        "They eventually found the file on a shared drive."
+      ]
+    }
+  }
+}

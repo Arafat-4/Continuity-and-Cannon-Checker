@@ -1,0 +1,52 @@
+{
+  "chapter_number": 17,
+  "title": "Chapter 17 — The Train Ticket",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Found his first train ticket inside a brown backpack.",
+          "Took an original train journey from Hyderabad to Bengaluru in August 2024."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun found his first train ticket inside his brown backpack.",
+        "time_reference": "One evening"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hyderabad",
+        "context": "The origin of Arjun's original train journey."
+      },
+      {
+        "name": "Bengaluru",
+        "context": "The destination of Arjun's original train journey."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun's original journey from Hyderabad to Bengaluru took place in August 2024."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun found his first train ticket inside the brown backpack."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Arjun found his first train ticket inside the brown backpack.",
+        "The ticket showed that his original journey from Hyderabad to Bengaluru had taken place in August 2024."
+      ]
+    }
+  }
+}

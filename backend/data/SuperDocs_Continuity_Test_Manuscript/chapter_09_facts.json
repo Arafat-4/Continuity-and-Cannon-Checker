@@ -1,0 +1,65 @@
+{
+  "chapter_number": 9,
+  "title": "Chapter 9 — The Photograph Returns",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Found the original lake photograph inside a desk drawer while cleaning his apartment",
+          "Lived with Nisha in Hyderabad in June 2022"
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Lived with Arjun in Hyderabad in June 2022"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun finds the original lake photograph inside a desk drawer while cleaning his apartment.",
+        "time_reference": ""
+      },
+      {
+        "description": "The original lake photograph was taken.",
+        "time_reference": "June 2022"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Arjun's apartment",
+        "context": "Location where Arjun cleans and finds the lake photograph inside a desk drawer."
+      },
+      {
+        "name": "Hyderabad",
+        "context": "Location where Arjun and Nisha were living together in June 2022."
+      }
+    ],
+    "timeline_facts": [
+      "The photograph was taken in June 2022.",
+      "Arjun and Nisha were still living together in Hyderabad in June 2022."
+    ],
+    "relationships": [
+      "Arjun and Nisha were former cohabitants who lived together in Hyderabad in June 2022."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "While cleaning his apartment, Arjun found the original lake photograph inside a desk drawer."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "While cleaning his apartment, Arjun found the original lake photograph inside a desk drawer.",
+        "The photograph had been taken in June 2022"
+      ]
+    }
+  }
+}

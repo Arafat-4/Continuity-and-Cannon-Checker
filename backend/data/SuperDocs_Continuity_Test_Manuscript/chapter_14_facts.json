@@ -1,0 +1,55 @@
+{
+  "chapter_number": 14,
+  "title": "Chapter 14 — The Plan",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Began planning a new software project with Priya.",
+          "Wrote the project milestones in his notebook."
+        ]
+      },
+      {
+        "name": "Priya",
+        "details": [
+          "Began planning a new software project with Arjun."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun and Priya began planning a new software project.",
+        "time_reference": ""
+      },
+      {
+        "description": "Arjun wrote the project milestones in his notebook.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [],
+    "timeline_facts": [
+      "The first prototype was expected to be ready within two months."
+    ],
+    "relationships": [
+      "Arjun and Priya are collaborating on a new software project."
+    ],
+    "point_of_view": {
+      "type": "third_person_omniscient",
+      "character": null,
+      "evidence": [
+        "They expected the first prototype to be ready within two months."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun and Priya began planning a new software project.",
+        "Arjun wrote the project milestones in his notebook."
+      ]
+    }
+  }
+}

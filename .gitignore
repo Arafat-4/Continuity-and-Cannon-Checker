@@ -21,7 +21,18 @@ env/
 # ==================================================
 
 backend/__pycache__/
+# Backend generated manuscript data
+# Ignore generated backend data by default
 backend/data/*
+
+# Keep the pre-analyzed SuperDocs test manuscript
+!backend/data/SuperDocs_Continuity_Test_Manuscript/
+!backend/data/SuperDocs_Continuity_Test_Manuscript/**
+
+
+# Keep the storage module
+!backend/data/storage.py
+!backend/data/__init__.py
 backend/uploads/*
 
 # Keep directory structure

@@ -1,0 +1,65 @@
+{
+  "chapter_number": 13,
+  "title": "Chapter 13 — The Office",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Returned to Bengaluru after a holiday",
+          "Went back to Meridian Technologies",
+          "Stated that his trip helped him remember why he wanted to stay close to his family"
+        ]
+      },
+      {
+        "name": "Priya",
+        "details": [
+          "Asked Arjun about his holiday"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun returns to Bengaluru and goes back to Meridian Technologies.",
+        "time_reference": "After returning to Bengaluru"
+      },
+      {
+        "description": "Priya asks Arjun about his holiday, and Arjun explains that the trip helped him remember why he wanted to stay close to his family.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The location Arjun returned to after his holiday."
+      },
+      {
+        "name": "Meridian Technologies",
+        "context": "The place Arjun returned to after coming back to Bengaluru."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun returned to Bengaluru and went back to Meridian Technologies after his trip."
+    ],
+    "relationships": [
+      "Priya and Arjun interact at Meridian Technologies where she asks him about his trip."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "After returning to Bengaluru, Arjun went back to Meridian Technologies."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun went back to Meridian Technologies.",
+        "Priya asked him about his holiday."
+      ]
+    }
+  }
+}

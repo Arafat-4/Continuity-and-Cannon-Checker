@@ -1,0 +1,89 @@
+{
+  "chapter_number": 6,
+  "title": "Chapter 6 — The Birthday",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Returned to Hyderabad in October for Nisha's birthday.",
+          "Was surprised by Nisha with a framed copy of their lake photograph.",
+          "Stated he had never forgotten the promise he made at the railway station."
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Celebrated her birthday in October.",
+          "Surprised Arjun with a framed copy of their lake photograph."
+        ]
+      },
+      {
+        "name": "Mother",
+        "details": [
+          "Mother of Arjun and Nisha.",
+          "Prepared a small dinner for Nisha's birthday."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun returned to Hyderabad for Nisha's birthday.",
+        "time_reference": "In October"
+      },
+      {
+        "description": "Arjun and Nisha's mother prepared a small dinner.",
+        "time_reference": "Nisha's birthday"
+      },
+      {
+        "description": "Nisha surprised Arjun with a framed copy of their lake photograph.",
+        "time_reference": "Nisha's birthday"
+      },
+      {
+        "description": "Arjun told Nisha that he had never forgotten the promise he made at the railway station.",
+        "time_reference": "Nisha's birthday"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hyderabad",
+        "context": "The city Arjun returned to for Nisha's birthday."
+      },
+      {
+        "name": "Railway station",
+        "context": "The location where Arjun previously made a promise."
+      },
+      {
+        "name": "Lake",
+        "context": "The setting of the photograph that Nisha framed."
+      }
+    ],
+    "timeline_facts": [
+      "Nisha's birthday occurs in October.",
+      "Arjun previously made a promise at a railway station.",
+      "A photograph was taken at a lake prior to October."
+    ],
+    "relationships": [
+      "Arjun and Nisha are siblings.",
+      "The mother is the mother of both Arjun and Nisha."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "In October, Arjun returned to Hyderabad for Nisha's birthday.",
+        "Nisha surprised him with a framed copy of their lake photograph."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "In October, Arjun returned to Hyderabad for Nisha's birthday.",
+        "Arjun told Nisha that he had never forgotten the promise he made at the railway station."
+      ]
+    }
+  }
+}

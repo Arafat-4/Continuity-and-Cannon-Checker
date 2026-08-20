@@ -1,0 +1,64 @@
+{
+  "chapter_number": 16,
+  "title": "Chapter 16 — The Decision",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Decided that he would eventually move back to Hyderabad.",
+          "Happy with his work in Bengaluru.",
+          "Commutes to the office three days a week."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun decided that he would eventually move back to Hyderabad.",
+        "time_reference": ""
+      },
+      {
+        "description": "Arjun continued commuting to the office three days a week.",
+        "time_reference": "For now"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hyderabad",
+        "context": "The city Arjun decided he would eventually move back to."
+      },
+      {
+        "name": "Bengaluru",
+        "context": "The city where Arjun currently works and is happy with his work."
+      },
+      {
+        "name": "office",
+        "context": "The place Arjun commutes to three days a week."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun works in Bengaluru for now.",
+      "Arjun commutes to the office three days a week.",
+      "Arjun plans to move back to Hyderabad eventually."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun decided that he would eventually move back to Hyderabad.",
+        "For now, however, he was happy with his work in Bengaluru"
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun decided that he would eventually move back to Hyderabad.",
+        "For now, however, he was happy with his work in Bengaluru and continued commuting to the office three days a week."
+      ]
+    }
+  }
+}

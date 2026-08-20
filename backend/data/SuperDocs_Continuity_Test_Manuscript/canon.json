@@ -1,0 +1,994 @@
+{
+  "manuscript": "SuperDocs_Continuity_Test_Manuscript.pdf",
+  "characters": {
+    "PostgreSQL Test Character": {
+      "name": "PostgreSQL Test Character",
+      "aliases": [],
+      "details": [],
+      "appearances": [
+        1
+      ]
+    },
+    "Arjun": {
+      "name": "Arjun",
+      "aliases": [],
+      "details": [
+        {
+          "detail": "Called Nisha from Bengaluru.",
+          "chapter": 2
+        },
+        {
+          "detail": "Arrived safely in Bengaluru the previous night.",
+          "chapter": 2
+        },
+        {
+          "detail": "Keeps a copy of a photograph taken at the lake in June 2022 inside his desk drawer.",
+          "chapter": 2
+        },
+        {
+          "detail": "Started working at Meridian Technologies in Bengaluru three months later.",
+          "chapter": 3
+        },
+        {
+          "detail": "Works from the office on Mondays, Wednesdays, and Fridays, and from his apartment on other days.",
+          "chapter": 3
+        },
+        {
+          "detail": "Answered Priya's call immediately and agreed to meet her at the office the following Monday",
+          "chapter": 4
+        },
+        {
+          "detail": "Placed a brown backpack under his desk before leaving work",
+          "chapter": 4
+        },
+        {
+          "detail": "Took the metro to the office on Monday morning.",
+          "chapter": 5
+        },
+        {
+          "detail": "Remembered his promise to Nisha and checked his calendar for October.",
+          "chapter": 5
+        },
+        {
+          "detail": "Has been planning to return to Hyderabad for Nisha's birthday for several weeks.",
+          "chapter": 5
+        },
+        {
+          "detail": "Returned to Hyderabad in October for Nisha's birthday.",
+          "chapter": 6
+        },
+        {
+          "detail": "Was surprised by Nisha with a framed copy of their lake photograph.",
+          "chapter": 6
+        },
+        {
+          "detail": "Stated he had never forgotten the promise he made at the railway station.",
+          "chapter": 6
+        },
+        {
+          "detail": "Discovered an important project file was missing from his laptop upon returning to Bengaluru.",
+          "chapter": 7
+        },
+        {
+          "detail": "Received a message from Nisha asking when he would visit Hyderabad again.",
+          "chapter": 8
+        },
+        {
+          "detail": "Replied that he would try to come home during the winter holidays.",
+          "chapter": 8
+        },
+        {
+          "detail": "Found the original lake photograph inside a desk drawer while cleaning his apartment",
+          "chapter": 9
+        },
+        {
+          "detail": "Lived with Nisha in Hyderabad in June 2022",
+          "chapter": 9
+        },
+        {
+          "detail": "Booked a train ticket to Hyderabad for December",
+          "chapter": 10
+        },
+        {
+          "detail": "Packed the same worn brown backpack he had carried on his first journey",
+          "chapter": 10
+        },
+        {
+          "detail": "Looked at a photograph of the lake on his phone as the train left Bengaluru",
+          "chapter": 10
+        },
+        {
+          "detail": "Moved to Bengaluru.",
+          "chapter": 11
+        },
+        {
+          "detail": "Boarded a train that left Hyderabad at 8:00 in the evening.",
+          "chapter": 11
+        },
+        {
+          "detail": "Found an old letter from his father at home.",
+          "chapter": 12
+        },
+        {
+          "detail": "Placed the letter beside a framed photograph.",
+          "chapter": 12
+        },
+        {
+          "detail": "Returned to Bengaluru after a holiday",
+          "chapter": 13
+        },
+        {
+          "detail": "Went back to Meridian Technologies",
+          "chapter": 13
+        },
+        {
+          "detail": "Stated that his trip helped him remember why he wanted to stay close to his family",
+          "chapter": 13
+        },
+        {
+          "detail": "Began planning a new software project with Priya.",
+          "chapter": 14
+        },
+        {
+          "detail": "Wrote the project milestones in his notebook.",
+          "chapter": 14
+        },
+        {
+          "detail": "Noticed that the birthday reminder in the notebook was written in his handwriting from years earlier.",
+          "chapter": 15
+        },
+        {
+          "detail": "Decided that he would eventually move back to Hyderabad.",
+          "chapter": 16
+        },
+        {
+          "detail": "Happy with his work in Bengaluru.",
+          "chapter": 16
+        },
+        {
+          "detail": "Commutes to the office three days a week.",
+          "chapter": 16
+        },
+        {
+          "detail": "Found his first train ticket inside a brown backpack.",
+          "chapter": 17
+        },
+        {
+          "detail": "Took an original train journey from Hyderabad to Bengaluru in August 2024.",
+          "chapter": 17
+        },
+        {
+          "detail": "Took his first journey to Bengaluru in August 2023.",
+          "chapter": 18
+        },
+        {
+          "detail": "Looked at a ticket and wondered why the printed date differed from his memory.",
+          "chapter": 18
+        },
+        {
+          "detail": "Searched his email archive and found an old message from the railway booking service.",
+          "chapter": 19
+        },
+        {
+          "detail": "Closed the archive and wrote a final note in his notebook",
+          "chapter": 20
+        },
+        {
+          "detail": "Made his first journey to Bengaluru in August 2023",
+          "chapter": 20
+        },
+        {
+          "detail": "Had been working at Meridian Technologies for three years",
+          "chapter": 20
+        }
+      ],
+      "appearances": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "Nisha": {
+      "name": "Nisha",
+      "aliases": [],
+      "details": [
+        {
+          "detail": "Reminded Arjun about a photograph they had taken together at the lake in June 2022.",
+          "chapter": 2
+        },
+        {
+          "detail": "Has a birthday in October.",
+          "chapter": 5
+        },
+        {
+          "detail": "Arjun made a promise to her and has been planning to return to Hyderabad for her birthday.",
+          "chapter": 5
+        },
+        {
+          "detail": "Celebrated her birthday in October.",
+          "chapter": 6
+        },
+        {
+          "detail": "Surprised Arjun with a framed copy of their lake photograph.",
+          "chapter": 6
+        },
+        {
+          "detail": "Sent a message to Arjun asking when he would visit Hyderabad again.",
+          "chapter": 8
+        },
+        {
+          "detail": "Lived with Arjun in Hyderabad in June 2022",
+          "chapter": 9
+        },
+        {
+          "detail": "Met Arjun at the station.",
+          "chapter": 11
+        },
+        {
+          "detail": "Joked that Arjun had become much more punctual since moving to Bengaluru.",
+          "chapter": 11
+        },
+        {
+          "detail": "Her birthday was listed as a reminder in the notebook.",
+          "chapter": 15
+        }
+      ],
+      "appearances": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    "Priya Rao": {
+      "name": "Priya Rao",
+      "aliases": [
+        "Priya"
+      ],
+      "details": [
+        {
+          "detail": "A software engineer at Meridian Technologies.",
+          "chapter": 3
+        },
+        {
+          "detail": "Became Arjun's closest colleague.",
+          "chapter": 3
+        },
+        {
+          "detail": "Called Arjun one Friday afternoon about an urgent project",
+          "chapter": 4
+        },
+        {
+          "detail": "Helped Arjun search the office for the missing project file.",
+          "chapter": 7
+        },
+        {
+          "detail": "Asked Arjun about his holiday",
+          "chapter": 13
+        },
+        {
+          "detail": "Began planning a new software project with Arjun.",
+          "chapter": 14
+        }
+      ],
+      "appearances": [
+        3,
+        4,
+        7,
+        13,
+        14
+      ]
+    },
+    "Arjun's manager": {
+      "name": "Arjun's manager",
+      "aliases": [],
+      "details": [
+        {
+          "detail": "Introduced Arjun to Priya Rao.",
+          "chapter": 3
+        }
+      ],
+      "appearances": [
+        3
+      ]
+    },
+    "Mother": {
+      "name": "Mother",
+      "aliases": [],
+      "details": [
+        {
+          "detail": "Mother of Arjun and Nisha.",
+          "chapter": 6
+        },
+        {
+          "detail": "Prepared a small dinner for Nisha's birthday.",
+          "chapter": 6
+        }
+      ],
+      "appearances": [
+        6
+      ]
+    },
+    "Arjun's father": {
+      "name": "Arjun's father",
+      "aliases": [],
+      "details": [
+        {
+          "detail": "Wrote an old letter that mentioned a family lake trip from June 2022.",
+          "chapter": 12
+        }
+      ],
+      "appearances": [
+        12
+      ]
+    }
+  },
+  "events": [
+    {
+      "chapter": 2,
+      "description": "Arjun called Nisha from Bengaluru to tell her he had arrived safely the previous night.",
+      "time_reference": "The next morning"
+    },
+    {
+      "chapter": 2,
+      "description": "Nisha reminded Arjun about a photograph taken at the lake, and Arjun mentioned keeping a copy inside his desk drawer.",
+      "time_reference": "The next morning"
+    },
+    {
+      "chapter": 3,
+      "description": "Arjun started working at Meridian Technologies and was introduced to Priya Rao by his manager.",
+      "time_reference": "Three months later"
+    },
+    {
+      "chapter": 4,
+      "description": "Priya called Arjun about an urgent project and Arjun agreed to meet her at the office the following Monday.",
+      "time_reference": "One Friday afternoon"
+    },
+    {
+      "chapter": 4,
+      "description": "Arjun placed his brown backpack under his desk before leaving work.",
+      "time_reference": "Before leaving work"
+    },
+    {
+      "chapter": 5,
+      "description": "Arjun takes the metro to the office and checks his calendar for October after remembering a promise to Nisha.",
+      "time_reference": "Monday morning"
+    },
+    {
+      "chapter": 6,
+      "description": "Arjun returned to Hyderabad for Nisha's birthday.",
+      "time_reference": "In October"
+    },
+    {
+      "chapter": 6,
+      "description": "Arjun and Nisha's mother prepared a small dinner.",
+      "time_reference": "Nisha's birthday"
+    },
+    {
+      "chapter": 6,
+      "description": "Nisha surprised Arjun with a framed copy of their lake photograph.",
+      "time_reference": "Nisha's birthday"
+    },
+    {
+      "chapter": 6,
+      "description": "Arjun told Nisha that he had never forgotten the promise he made at the railway station.",
+      "time_reference": "Nisha's birthday"
+    },
+    {
+      "chapter": 7,
+      "description": "Arjun discovered that an important project file was missing from his laptop.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 7,
+      "description": "Priya helped Arjun search the office.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 7,
+      "description": "Arjun and Priya found the missing project file on a shared drive.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 8,
+      "description": "Arjun received a message from Nisha asking when he would visit Hyderabad again.",
+      "time_reference": "That evening"
+    },
+    {
+      "chapter": 8,
+      "description": "Arjun replied to Nisha that he would try to come home during the winter holidays.",
+      "time_reference": "That evening"
+    },
+    {
+      "chapter": 9,
+      "description": "Arjun finds the original lake photograph inside a desk drawer while cleaning his apartment.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 9,
+      "description": "The original lake photograph was taken.",
+      "time_reference": "June 2022"
+    },
+    {
+      "chapter": 10,
+      "description": "Arjun booked a train ticket to Hyderabad and packed his backpack.",
+      "time_reference": "December"
+    },
+    {
+      "chapter": 10,
+      "description": "The train left Bengaluru while Arjun looked at a photograph of the lake on his phone.",
+      "time_reference": "As the train left Bengaluru"
+    },
+    {
+      "chapter": 11,
+      "description": "Nisha meets Arjun at the station and jokes about his improved punctuality since moving to Bengaluru.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 11,
+      "description": "Arjun reminds Nisha that his first train left Hyderabad at 8:00 in the evening.",
+      "time_reference": "8:00 in the evening"
+    },
+    {
+      "chapter": 12,
+      "description": "Arjun finds an old letter from his father at home.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 12,
+      "description": "Arjun places the letter beside a framed photograph.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 13,
+      "description": "Arjun returns to Bengaluru and goes back to Meridian Technologies.",
+      "time_reference": "After returning to Bengaluru"
+    },
+    {
+      "chapter": 13,
+      "description": "Priya asks Arjun about his holiday, and Arjun explains that the trip helped him remember why he wanted to stay close to his family.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 14,
+      "description": "Arjun and Priya began planning a new software project.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 14,
+      "description": "Arjun wrote the project milestones in his notebook.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 15,
+      "description": "Arjun noticed that the birthday reminder in the notebook was written in his handwriting from years earlier.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 16,
+      "description": "Arjun decided that he would eventually move back to Hyderabad.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 16,
+      "description": "Arjun continued commuting to the office three days a week.",
+      "time_reference": "For now"
+    },
+    {
+      "chapter": 17,
+      "description": "Arjun found his first train ticket inside his brown backpack.",
+      "time_reference": "One evening"
+    },
+    {
+      "chapter": 18,
+      "description": "Arjun looks at a ticket and notices the printed date seems different from his memory of his first journey to Bengaluru.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 19,
+      "description": "Arjun searched his email archive and found an old railway booking confirmation message.",
+      "time_reference": ""
+    },
+    {
+      "chapter": 20,
+      "description": "Arjun closed the archive and wrote a final note in his notebook about his past journey and work experience.",
+      "time_reference": "August 2023"
+    }
+  ],
+  "locations": {
+    "Bengaluru": {
+      "name": "Bengaluru",
+      "contexts": [
+        {
+          "context": "The location Arjun arrived at the previous night and from where he called Nisha.",
+          "chapter": 2
+        },
+        {
+          "context": "The city where Meridian Technologies is located.",
+          "chapter": 3
+        },
+        {
+          "context": "The city where Arjun returned to and discovered the missing file.",
+          "chapter": 7
+        },
+        {
+          "context": "The location from which Arjun's train departed.",
+          "chapter": 10
+        },
+        {
+          "context": "The location Arjun moved to.",
+          "chapter": 11
+        },
+        {
+          "context": "The location Arjun returned to after his holiday.",
+          "chapter": 13
+        },
+        {
+          "context": "The city where Arjun currently works and is happy with his work.",
+          "chapter": 16
+        },
+        {
+          "context": "The destination of Arjun's original train journey.",
+          "chapter": 17
+        },
+        {
+          "context": "The destination of Arjun's first journey in August 2023.",
+          "chapter": 18
+        },
+        {
+          "context": "The destination of Arjun's first journey.",
+          "chapter": 19
+        },
+        {
+          "context": "The city where Arjun made his first journey in August 2023.",
+          "chapter": 20
+        }
+      ],
+      "appearances": [
+        2,
+        3,
+        7,
+        10,
+        11,
+        13,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "The lake": {
+      "name": "The lake",
+      "contexts": [
+        {
+          "context": "The location where Arjun and Nisha took a photograph together in June 2022.",
+          "chapter": 2
+        }
+      ],
+      "appearances": [
+        2
+      ]
+    },
+    "Meridian Technologies": {
+      "name": "Meridian Technologies",
+      "contexts": [
+        {
+          "context": "The company in Bengaluru where Arjun started working.",
+          "chapter": 3
+        },
+        {
+          "context": "The place Arjun returned to after coming back to Bengaluru.",
+          "chapter": 13
+        },
+        {
+          "context": "The place where Arjun had been working for three years.",
+          "chapter": 20
+        }
+      ],
+      "appearances": [
+        3,
+        13,
+        20
+      ]
+    },
+    "Arjun's apartment": {
+      "name": "Arjun's apartment",
+      "contexts": [
+        {
+          "context": "The place where Arjun works on days he does not go to the office.",
+          "chapter": 3
+        },
+        {
+          "context": "Location where Arjun cleans and finds the lake photograph inside a desk drawer.",
+          "chapter": 9
+        }
+      ],
+      "appearances": [
+        3,
+        9
+      ]
+    },
+    "the office": {
+      "name": "the office",
+      "contexts": [
+        {
+          "context": "The location where Arjun works, has a desk, and agreed to meet Priya the following Monday.",
+          "chapter": 4
+        }
+      ],
+      "appearances": [
+        4
+      ]
+    },
+    "Office": {
+      "name": "Office",
+      "contexts": [
+        {
+          "context": "The place Arjun traveled to on Monday morning via metro.",
+          "chapter": 5
+        },
+        {
+          "context": "The location searched by Priya and Arjun.",
+          "chapter": 7
+        }
+      ],
+      "appearances": [
+        5,
+        7
+      ]
+    },
+    "Hyderabad": {
+      "name": "Hyderabad",
+      "contexts": [
+        {
+          "context": "The location Arjun has been planning to return to for Nisha's birthday.",
+          "chapter": 5
+        },
+        {
+          "context": "The city Arjun returned to for Nisha's birthday.",
+          "chapter": 6
+        },
+        {
+          "context": "The location Nisha asks Arjun about visiting again, which Arjun refers to as home.",
+          "chapter": 8
+        },
+        {
+          "context": "Location where Arjun and Nisha were living together in June 2022.",
+          "chapter": 9
+        },
+        {
+          "context": "Destination of Arjun's train ticket.",
+          "chapter": 10
+        },
+        {
+          "context": "The location from which Arjun's first train departed.",
+          "chapter": 11
+        },
+        {
+          "context": "The city Arjun decided he would eventually move back to.",
+          "chapter": 16
+        },
+        {
+          "context": "The origin of Arjun's original train journey.",
+          "chapter": 17
+        }
+      ],
+      "appearances": [
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        16,
+        17
+      ]
+    },
+    "Railway station": {
+      "name": "Railway station",
+      "contexts": [
+        {
+          "context": "The location where Arjun previously made a promise.",
+          "chapter": 6
+        }
+      ],
+      "appearances": [
+        6
+      ]
+    },
+    "Lake": {
+      "name": "Lake",
+      "contexts": [
+        {
+          "context": "The setting of the photograph that Nisha framed.",
+          "chapter": 6
+        },
+        {
+          "context": "Featured in a photograph on Arjun's phone.",
+          "chapter": 10
+        },
+        {
+          "context": "Mentioned as the subject of a photograph whose date was listed in the notebook.",
+          "chapter": 15
+        }
+      ],
+      "appearances": [
+        6,
+        10,
+        15
+      ]
+    },
+    "The station": {
+      "name": "The station",
+      "contexts": [
+        {
+          "context": "The location where Nisha meets Arjun.",
+          "chapter": 11
+        }
+      ],
+      "appearances": [
+        11
+      ]
+    },
+    "Home": {
+      "name": "Home",
+      "contexts": [
+        {
+          "context": "The location where Arjun finds the letter and places it beside a framed photograph.",
+          "chapter": 12
+        }
+      ],
+      "appearances": [
+        12
+      ]
+    },
+    "office": {
+      "name": "office",
+      "contexts": [
+        {
+          "context": "The place Arjun commutes to three days a week.",
+          "chapter": 16
+        }
+      ],
+      "appearances": [
+        16
+      ]
+    },
+    "Archive": {
+      "name": "Archive",
+      "contexts": [
+        {
+          "context": "The location or file Arjun closed before writing his note.",
+          "chapter": 20
+        }
+      ],
+      "appearances": [
+        20
+      ]
+    }
+  },
+  "timeline": [
+    {
+      "chapter": 2,
+      "fact": "Arjun arrived safely in Bengaluru the night before calling Nisha."
+    },
+    {
+      "chapter": 2,
+      "fact": "Arjun called Nisha the next morning."
+    },
+    {
+      "chapter": 2,
+      "fact": "Arjun and Nisha took a photograph together at the lake in June 2022."
+    },
+    {
+      "chapter": 3,
+      "fact": "Arjun started working at Meridian Technologies three months later."
+    },
+    {
+      "chapter": 3,
+      "fact": "Arjun worked from the office on Mondays, Wednesdays, and Fridays, and from his apartment on other days."
+    },
+    {
+      "chapter": 4,
+      "fact": "Priya called Arjun on a Friday afternoon."
+    },
+    {
+      "chapter": 4,
+      "fact": "Arjun agreed to meet Priya at the office the following Monday."
+    },
+    {
+      "chapter": 4,
+      "fact": "Arjun placed a brown backpack under his desk before leaving work on Friday afternoon."
+    },
+    {
+      "chapter": 5,
+      "fact": "The events take place on a Monday morning."
+    },
+    {
+      "chapter": 5,
+      "fact": "Nisha's birthday is in October."
+    },
+    {
+      "chapter": 5,
+      "fact": "Arjun has been planning to return to Hyderabad for several weeks."
+    },
+    {
+      "chapter": 6,
+      "fact": "Nisha's birthday occurs in October."
+    },
+    {
+      "chapter": 6,
+      "fact": "Arjun previously made a promise at a railway station."
+    },
+    {
+      "chapter": 6,
+      "fact": "A photograph was taken at a lake prior to October."
+    },
+    {
+      "chapter": 7,
+      "fact": "Arjun discovered the file was missing back in Bengaluru."
+    },
+    {
+      "chapter": 8,
+      "fact": "Arjun received Nisha's message in the evening."
+    },
+    {
+      "chapter": 8,
+      "fact": "Arjun considers visiting Hyderabad during the winter holidays."
+    },
+    {
+      "chapter": 9,
+      "fact": "The photograph was taken in June 2022."
+    },
+    {
+      "chapter": 9,
+      "fact": "Arjun and Nisha were still living together in Hyderabad in June 2022."
+    },
+    {
+      "chapter": 10,
+      "fact": "The train ticket to Hyderabad was booked for December."
+    },
+    {
+      "chapter": 10,
+      "fact": "Arjun had previously taken a first journey where he carried the same backpack."
+    },
+    {
+      "chapter": 11,
+      "fact": "Arjun moved to Bengaluru before meeting Nisha at the station."
+    },
+    {
+      "chapter": 11,
+      "fact": "Arjun's first train departed Hyderabad at 8:00 in the evening."
+    },
+    {
+      "chapter": 12,
+      "fact": "A family lake trip took place in June 2022."
+    },
+    {
+      "chapter": 13,
+      "fact": "Arjun returned to Bengaluru and went back to Meridian Technologies after his trip."
+    },
+    {
+      "chapter": 14,
+      "fact": "The first prototype was expected to be ready within two months."
+    },
+    {
+      "chapter": 15,
+      "fact": "The birthday reminder in the notebook was written in Arjun's handwriting years earlier."
+    },
+    {
+      "chapter": 15,
+      "fact": "The notebook contained reminders including Nisha's birthday and the date of the lake photograph."
+    },
+    {
+      "chapter": 16,
+      "fact": "Arjun works in Bengaluru for now."
+    },
+    {
+      "chapter": 16,
+      "fact": "Arjun commutes to the office three days a week."
+    },
+    {
+      "chapter": 16,
+      "fact": "Arjun plans to move back to Hyderabad eventually."
+    },
+    {
+      "chapter": 17,
+      "fact": "Arjun's original journey from Hyderabad to Bengaluru took place in August 2024."
+    },
+    {
+      "chapter": 18,
+      "fact": "Arjun's first journey to Bengaluru occurred in August 2023."
+    },
+    {
+      "chapter": 19,
+      "fact": "Arjun's first journey to Bengaluru was booked for August 2024."
+    },
+    {
+      "chapter": 20,
+      "fact": "Arjun's first journey to Bengaluru was in August 2023."
+    },
+    {
+      "chapter": 20,
+      "fact": "Arjun had been working at Meridian Technologies for three years at the time he wrote the note."
+    }
+  ],
+  "relationships": [
+    {
+      "chapter": 2,
+      "relationship": "Arjun and Nisha took a photograph together at the lake in June 2022."
+    },
+    {
+      "chapter": 3,
+      "relationship": "Priya Rao became Arjun's closest colleague."
+    },
+    {
+      "chapter": 4,
+      "relationship": "Priya and Arjun are professional associates who work together on projects and at an office."
+    },
+    {
+      "chapter": 5,
+      "relationship": "Arjun made a promise to Nisha regarding her birthday in Hyderabad."
+    },
+    {
+      "chapter": 6,
+      "relationship": "Arjun and Nisha are siblings."
+    },
+    {
+      "chapter": 6,
+      "relationship": "The mother is the mother of both Arjun and Nisha."
+    },
+    {
+      "chapter": 7,
+      "relationship": "Priya helped Arjun search the office."
+    },
+    {
+      "chapter": 8,
+      "relationship": "Nisha and Arjun are in contact, with Nisha asking about Arjun visiting Hyderabad and Arjun referring to it as coming home."
+    },
+    {
+      "chapter": 9,
+      "relationship": "Arjun and Nisha were former cohabitants who lived together in Hyderabad in June 2022."
+    },
+    {
+      "chapter": 11,
+      "relationship": "Nisha and Arjun know each other."
+    },
+    {
+      "chapter": 12,
+      "relationship": "Arjun is the son of his father."
+    },
+    {
+      "chapter": 13,
+      "relationship": "Priya and Arjun interact at Meridian Technologies where she asks him about his trip."
+    },
+    {
+      "chapter": 14,
+      "relationship": "Arjun and Priya are collaborating on a new software project."
+    },
+    {
+      "chapter": 20,
+      "relationship": "Arjun is an employee at Meridian Technologies."
+    }
+  ]
+}

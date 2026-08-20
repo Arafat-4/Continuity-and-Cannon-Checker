@@ -1,0 +1,68 @@
+{
+  "chapter_number": 2,
+  "title": "Chapter 2 — The Old Photograph",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Called Nisha from Bengaluru.",
+          "Arrived safely in Bengaluru the previous night.",
+          "Keeps a copy of a photograph taken at the lake in June 2022 inside his desk drawer."
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Reminded Arjun about a photograph they had taken together at the lake in June 2022."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun called Nisha from Bengaluru to tell her he had arrived safely the previous night.",
+        "time_reference": "The next morning"
+      },
+      {
+        "description": "Nisha reminded Arjun about a photograph taken at the lake, and Arjun mentioned keeping a copy inside his desk drawer.",
+        "time_reference": "The next morning"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The location Arjun arrived at the previous night and from where he called Nisha."
+      },
+      {
+        "name": "The lake",
+        "context": "The location where Arjun and Nisha took a photograph together in June 2022."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun arrived safely in Bengaluru the night before calling Nisha.",
+      "Arjun called Nisha the next morning.",
+      "Arjun and Nisha took a photograph together at the lake in June 2022."
+    ],
+    "relationships": [
+      "Arjun and Nisha took a photograph together at the lake in June 2022."
+    ],
+    "point_of_view": {
+      "type": "objective",
+      "character": null,
+      "evidence": [
+        "The next morning, Arjun called Nisha from Bengaluru.",
+        "Nisha reminded him about the photograph they had taken together at the lake in June 2022."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "The next morning, Arjun called Nisha from Bengaluru.",
+        "Nisha reminded him about the photograph they had taken together at the lake in June 2022."
+      ]
+    }
+  }
+}

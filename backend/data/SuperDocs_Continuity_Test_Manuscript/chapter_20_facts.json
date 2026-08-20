@@ -1,0 +1,61 @@
+{
+  "chapter_number": 20,
+  "title": "Chapter 20 — The Final Note",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Closed the archive and wrote a final note in his notebook",
+          "Made his first journey to Bengaluru in August 2023",
+          "Had been working at Meridian Technologies for three years"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun closed the archive and wrote a final note in his notebook about his past journey and work experience.",
+        "time_reference": "August 2023"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The city where Arjun made his first journey in August 2023."
+      },
+      {
+        "name": "Meridian Technologies",
+        "context": "The place where Arjun had been working for three years."
+      },
+      {
+        "name": "Archive",
+        "context": "The location or file Arjun closed before writing his note."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun's first journey to Bengaluru was in August 2023.",
+      "Arjun had been working at Meridian Technologies for three years at the time he wrote the note."
+    ],
+    "relationships": [
+      "Arjun is an employee at Meridian Technologies."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun closed the archive and wrote one final note in his notebook:",
+        "He then added that he had been working at Meridian Technologies for three years."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Arjun closed the archive and wrote one final note in his notebook:",
+        "He then added that he had been working at Meridian Technologies for three years."
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "chapter_number": 15,
+  "title": "Chapter 15 — The Notebook",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Noticed that the birthday reminder in the notebook was written in his handwriting from years earlier."
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Her birthday was listed as a reminder in the notebook."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun noticed that the birthday reminder in the notebook was written in his handwriting from years earlier.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lake",
+        "context": "Mentioned as the subject of a photograph whose date was listed in the notebook."
+      }
+    ],
+    "timeline_facts": [
+      "The birthday reminder in the notebook was written in Arjun's handwriting years earlier.",
+      "The notebook contained reminders including Nisha's birthday and the date of the lake photograph."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun noticed that the birthday reminder was written in his handwriting from years earlier."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "The notebook contained several reminders, including Nisha's birthday and the date of the lake photograph."
+      ]
+    }
+  }
+}

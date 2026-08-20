@@ -1,0 +1,65 @@
+{
+  "chapter_number": 5,
+  "title": "Chapter 5 — The Journey",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Took the metro to the office on Monday morning.",
+          "Remembered his promise to Nisha and checked his calendar for October.",
+          "Has been planning to return to Hyderabad for Nisha's birthday for several weeks."
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Has a birthday in October.",
+          "Arjun made a promise to her and has been planning to return to Hyderabad for her birthday."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun takes the metro to the office and checks his calendar for October after remembering a promise to Nisha.",
+        "time_reference": "Monday morning"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Office",
+        "context": "The place Arjun traveled to on Monday morning via metro."
+      },
+      {
+        "name": "Hyderabad",
+        "context": "The location Arjun has been planning to return to for Nisha's birthday."
+      }
+    ],
+    "timeline_facts": [
+      "The events take place on a Monday morning.",
+      "Nisha's birthday is in October.",
+      "Arjun has been planning to return to Hyderabad for several weeks."
+    ],
+    "relationships": [
+      "Arjun made a promise to Nisha regarding her birthday in Hyderabad."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun took the metro to the office.",
+        "He remembered his promise to Nisha and checked his calendar for October."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "On Monday morning, Arjun took the metro to the office.",
+        "He had been planning to return to Hyderabad for her birthday for several weeks."
+      ]
+    }
+  }
+}

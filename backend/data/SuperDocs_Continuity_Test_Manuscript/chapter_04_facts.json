@@ -1,0 +1,62 @@
+{
+  "chapter_number": 4,
+  "title": "Chapter 4 — The Call",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Answered Priya's call immediately and agreed to meet her at the office the following Monday",
+          "Placed a brown backpack under his desk before leaving work"
+        ]
+      },
+      {
+        "name": "Priya",
+        "details": [
+          "Called Arjun one Friday afternoon about an urgent project"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Priya called Arjun about an urgent project and Arjun agreed to meet her at the office the following Monday.",
+        "time_reference": "One Friday afternoon"
+      },
+      {
+        "description": "Arjun placed his brown backpack under his desk before leaving work.",
+        "time_reference": "Before leaving work"
+      }
+    ],
+    "locations": [
+      {
+        "name": "the office",
+        "context": "The location where Arjun works, has a desk, and agreed to meet Priya the following Monday."
+      }
+    ],
+    "timeline_facts": [
+      "Priya called Arjun on a Friday afternoon.",
+      "Arjun agreed to meet Priya at the office the following Monday.",
+      "Arjun placed a brown backpack under his desk before leaving work on Friday afternoon."
+    ],
+    "relationships": [
+      "Priya and Arjun are professional associates who work together on projects and at an office."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Before leaving work, Arjun placed the brown backpack under his desk."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "One Friday afternoon, Priya called Arjun about an urgent project.",
+        "Arjun answered immediately and agreed to meet her at the office the following Monday."
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "chapter_number": 19,
+  "title": "Chapter 19 — The Archive",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Searched his email archive and found an old message from the railway booking service."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun searched his email archive and found an old railway booking confirmation message.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The destination of Arjun's first journey."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun's first journey to Bengaluru was booked for August 2024."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun searched his email archive and found an old message from the railway booking service."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Arjun searched his email archive and found an old message from the railway booking service.",
+        "The message confirmed that his first journey to Bengaluru had been booked for August 2024."
+      ]
+    }
+  }
+}

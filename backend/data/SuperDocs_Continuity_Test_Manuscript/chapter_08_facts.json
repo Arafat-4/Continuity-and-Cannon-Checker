@@ -1,0 +1,62 @@
+{
+  "chapter_number": 8,
+  "title": "Chapter 8 — The Message",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Received a message from Nisha asking when he would visit Hyderabad again.",
+          "Replied that he would try to come home during the winter holidays."
+        ]
+      },
+      {
+        "name": "Nisha",
+        "details": [
+          "Sent a message to Arjun asking when he would visit Hyderabad again."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun received a message from Nisha asking when he would visit Hyderabad again.",
+        "time_reference": "That evening"
+      },
+      {
+        "description": "Arjun replied to Nisha that he would try to come home during the winter holidays.",
+        "time_reference": "That evening"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hyderabad",
+        "context": "The location Nisha asks Arjun about visiting again, which Arjun refers to as home."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun received Nisha's message in the evening.",
+      "Arjun considers visiting Hyderabad during the winter holidays."
+    ],
+    "relationships": [
+      "Nisha and Arjun are in contact, with Nisha asking about Arjun visiting Hyderabad and Arjun referring to it as coming home."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun received a message from Nisha asking when he would visit Hyderabad again.",
+        "He replied that he would try to come home during the winter holidays."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun received a message from Nisha",
+        "He replied that he would try"
+      ]
+    }
+  }
+}

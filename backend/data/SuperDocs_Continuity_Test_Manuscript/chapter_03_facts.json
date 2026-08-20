@@ -1,0 +1,71 @@
+{
+  "chapter_number": 3,
+  "title": "Chapter 3 — A New Job",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Started working at Meridian Technologies in Bengaluru three months later.",
+          "Works from the office on Mondays, Wednesdays, and Fridays, and from his apartment on other days."
+        ]
+      },
+      {
+        "name": "Priya Rao",
+        "details": [
+          "A software engineer at Meridian Technologies.",
+          "Became Arjun's closest colleague."
+        ]
+      },
+      {
+        "name": "Arjun's manager",
+        "details": [
+          "Introduced Arjun to Priya Rao."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun started working at Meridian Technologies and was introduced to Priya Rao by his manager.",
+        "time_reference": "Three months later"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Meridian Technologies",
+        "context": "The company in Bengaluru where Arjun started working."
+      },
+      {
+        "name": "Bengaluru",
+        "context": "The city where Meridian Technologies is located."
+      },
+      {
+        "name": "Arjun's apartment",
+        "context": "The place where Arjun works on days he does not go to the office."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun started working at Meridian Technologies three months later.",
+      "Arjun worked from the office on Mondays, Wednesdays, and Fridays, and from his apartment on other days."
+    ],
+    "relationships": [
+      "Priya Rao became Arjun's closest colleague."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun started working at Meridian Technologies in Bengaluru."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "Arjun started working at Meridian Technologies in Bengaluru."
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "manuscript": "SuperDocs_Continuity_Test_Manuscript.pdf",
+  "reviews": {
+    "47258816d44904ae": {
+      "conflict_id": "47258816d44904ae",
+      "status": "confirmed",
+      "type": "timeline_conflict",
+      "severity": "high",
+      "message": "Related timeline facts contain conflicting dates.",
+      "character": null,
+      "evidence": [
+        {
+          "detail": "Arjun's original journey from Hyderabad to Bengaluru took place in August 2024.",
+          "chapter": 17,
+          "month": 8,
+          "year": 2024
+        },
+        {
+          "detail": "Arjun's first journey to Bengaluru occurred in August 2023.",
+          "chapter": 18,
+          "month": 8,
+          "year": 2023
+        },
+        {
+          "detail": "Arjun's first journey to Bengaluru was booked for August 2024.",
+          "chapter": 19,
+          "month": 8,
+          "year": 2024
+        },
+        {
+          "detail": "Arjun's first journey to Bengaluru was in August 2023.",
+          "chapter": 20,
+          "month": 8,
+          "year": 2023
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "chapter_number": 10,
+  "title": "Chapter 10 — The Second Journey",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Booked a train ticket to Hyderabad for December",
+          "Packed the same worn brown backpack he had carried on his first journey",
+          "Looked at a photograph of the lake on his phone as the train left Bengaluru"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun booked a train ticket to Hyderabad and packed his backpack.",
+        "time_reference": "December"
+      },
+      {
+        "description": "The train left Bengaluru while Arjun looked at a photograph of the lake on his phone.",
+        "time_reference": "As the train left Bengaluru"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Hyderabad",
+        "context": "Destination of Arjun's train ticket."
+      },
+      {
+        "name": "Bengaluru",
+        "context": "The location from which Arjun's train departed."
+      },
+      {
+        "name": "Lake",
+        "context": "Featured in a photograph on Arjun's phone."
+      }
+    ],
+    "timeline_facts": [
+      "The train ticket to Hyderabad was booked for December.",
+      "Arjun had previously taken a first journey where he carried the same backpack."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun booked a train ticket to Hyderabad for December.",
+        "As the train left Bengaluru, he opened his phone and looked at the photograph of the lake."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Arjun booked a train ticket to Hyderabad for December.",
+        "He packed the same worn brown backpack he had carried on his first journey."
+      ]
+    }
+  }
+}

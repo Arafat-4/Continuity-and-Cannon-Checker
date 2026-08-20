@@ -1,0 +1,59 @@
+{
+  "chapter_number": 12,
+  "title": "Chapter 12 — The Letter",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Found an old letter from his father at home.",
+          "Placed the letter beside a framed photograph."
+        ]
+      },
+      {
+        "name": "Arjun's father",
+        "details": [
+          "Wrote an old letter that mentioned a family lake trip from June 2022."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun finds an old letter from his father at home.",
+        "time_reference": ""
+      },
+      {
+        "description": "Arjun places the letter beside a framed photograph.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Home",
+        "context": "The location where Arjun finds the letter and places it beside a framed photograph."
+      }
+    ],
+    "timeline_facts": [
+      "A family lake trip took place in June 2022."
+    ],
+    "relationships": [
+      "Arjun is the son of his father."
+    ],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "At home, Arjun found an old letter from his father."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": null,
+      "evidence": [
+        "At home, Arjun found an old letter from his father."
+      ]
+    }
+  }
+}

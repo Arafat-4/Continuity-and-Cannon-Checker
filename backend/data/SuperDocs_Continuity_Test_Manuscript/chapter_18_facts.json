@@ -1,0 +1,49 @@
+{
+  "chapter_number": 18,
+  "title": "Chapter 18 — The Contradiction",
+  "status": "success",
+  "extraction_schema_version": 2,
+  "facts": {
+    "characters": [
+      {
+        "name": "Arjun",
+        "details": [
+          "Took his first journey to Bengaluru in August 2023.",
+          "Looked at a ticket and wondered why the printed date differed from his memory."
+        ]
+      }
+    ],
+    "events": [
+      {
+        "description": "Arjun looks at a ticket and notices the printed date seems different from his memory of his first journey to Bengaluru.",
+        "time_reference": ""
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bengaluru",
+        "context": "The destination of Arjun's first journey in August 2023."
+      }
+    ],
+    "timeline_facts": [
+      "Arjun's first journey to Bengaluru occurred in August 2023."
+    ],
+    "relationships": [],
+    "point_of_view": {
+      "type": "third_person_limited",
+      "character": "Arjun",
+      "evidence": [
+        "Arjun looked at the ticket and remembered that his first journey to Bengaluru had happened in August 2023.",
+        "He wondered why the printed date seemed different from what he remembered."
+      ]
+    },
+    "narrative_tense": {
+      "primary": "past",
+      "secondary": "past_perfect",
+      "evidence": [
+        "Arjun looked at the ticket and remembered",
+        "had happened in August 2023"
+      ]
+    }
+  }
+}
