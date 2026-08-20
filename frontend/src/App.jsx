@@ -20,7 +20,9 @@ import Sidebar from "./components/layout/Sidebar";
 import Topbar from "./components/layout/Topbar";
 import PageHeader from "./components/layout/PageHeader";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL =
+  import.meta.env.VITE_API_BASE_URL ||
+  "http://127.0.0.1:8000";
 
 function App() {
   // ==================================================
@@ -410,7 +412,7 @@ function App() {
     } catch (err) {
       setError(
         err.message ||
-          "Could not connect to the backend. Make sure FastAPI is running on http://127.0.0.1:8000."
+          "Could not connect to the backend. Please check that the API server is available."
       );
     } finally {
       setUploading(false);
